@@ -20,3 +20,6 @@ survey provided was also used as a model feature.
 
 NOTE: This input file "df_complete.csv" is not included in the repository 
 because the information is the property of Swayable.
+
+More information about this project is included in this blog post:
+https://scottswensen.wordpress.com
